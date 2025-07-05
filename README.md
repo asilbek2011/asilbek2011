@@ -13,49 +13,6 @@
 - ⚡ Fun fact: ...
 
 <br>
-<p align="center">
-  <img style="float:left" src="https://gidigi.com/cdn/love.gif" width="800" height="600"/><br>
-   <img style="float:left" src="https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif" width="800" height="600"/>
-</p>
-
-<br>
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake-dark.svg" >
-<source media="(prefers-color-scheme: light)" srcset="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-<img alt="github-snake" src="https://github.com/vic1707/vic1707/blob/output/github-snake.svg">
-</picture>
-
-<br>
-
-<p>
-<a href="https://coderstats.net/github/#Dentrax">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=buronbekdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&line_height=26"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=buronbekdev&layout=compact&langs_count=8&theme=algolia&line_height=26"/>
-</a>
-</p> </br>
-
-
-# 🛠 &nbsp; Tech Stack
-
-- ##  Programming Language &nbsp;
-![Go](https://img.icons8.com/color/2x/golang.png)
-![C#](https://img.icons8.com/color/2x/c-sharp-logo-2.png)
-![C++](https://img.icons8.com/color/2x/c-plus-plus-logo.png)
-![JavaScript](https://img.icons8.com/fluency/2x/javascript.png)
-![TypeScript](https://img.icons8.com/fluency/2x/typescript--v2.png)
--  ## 🌐 Web Technology &nbsp;
-![HTML5](https://img.icons8.com/color/2x/html-5.png)
-![CSS](https://img.icons8.com/fluency/2x/css3.png)
-![Bootstrap](https://img.icons8.com/color/2x/bootstrap.png)
-![React](https://img.icons8.com/color/2x/react-native.png)
-![Angular](https://img.icons8.com/color/2x/angularjs.png)
-- ##  Database Technology &nbsp;
-![Sql-Server](https://img.icons8.com/color/2x/microsoft-sql-server.png)
-![Postgres](https://img.icons8.com/color/2x/postgreesql.png)
-![MySQL](https://img.icons8.com/color/2x/mysql-logo.png)
-![ElasticSearch](https://img.icons8.com/color/2x/elasticsearch.png)
-![Redis](https://img.icons8.com/color/2x/redis.png)
-![Mongo](https://img.icons8.com/color/2x/mongodb.png)
 
 <!--
 **Buronbek/Buronbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
